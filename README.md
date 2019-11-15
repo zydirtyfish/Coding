@@ -14,4 +14,4 @@
 * [链表的合并 II](https://github.com/zydirtyfish/Coding/blob/master/23_Merge%20k%20Sorted%20Lists.cpp)
 
 ### 动态规划
-* [抢劫](https://github.com/zydirtyfish/Coding/blob/master/198_House%20Robber.cpp)
+* [抢劫](https://github.com/zydirtyfish/Coding/blob/master/198_House%20Robber.cpp) (Easy)
