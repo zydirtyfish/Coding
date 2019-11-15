@@ -5,6 +5,7 @@
  *     ListNode *next;
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
+ * https://leetcode.com/problems/intersection-of-two-linked-lists/description/
  */
 class Solution {
 public:

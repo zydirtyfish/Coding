@@ -14,6 +14,7 @@ public:
         random = _random;
     }
 };
+* https://leetcode.com/problems/copy-list-with-random-pointer/description/
 */
 class Solution {
 public:
