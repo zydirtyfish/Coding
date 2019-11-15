@@ -16,3 +16,4 @@
 ### 动态规划
 * [爬楼梯](https://github.com/zydirtyfish/Coding/blob/master/70_Climbing%20Stairs.cpp) (Easy)
 * [打家劫舍](https://github.com/zydirtyfish/Coding/blob/master/198_House%20Robber.cpp) (Easy)
+* [最大连续子序列和](https://github.com/zydirtyfish/Coding/blob/master/53_Maximum%20Subarray.cpp) (Easy)
