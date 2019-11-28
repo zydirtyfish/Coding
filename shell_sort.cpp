@@ -16,7 +16,6 @@ void printv(vector<int> &num){
 class ShellSort{
 public:
 	void shell_sort(vector<int> &num);
-	void insert_sort(vector<int> &num);
 	void swap_num(int &a, int &b);
 };
 
@@ -33,18 +32,6 @@ void ShellSort::shell_sort(vector<int> &num){
 			}
 		}
 		gap /= 2;
-	}
-}
-
-void ShellSort::insert_sort(vector<int> &num){
-	for(int i = 0 ; i < num.size() ; ++ i){
-		for(int j = i ; j > 0 ; -- j){
-			if(num[j] < num[j-1]){
-				swap_num(num[j],num[j-1]);
-			}else{
-				continue;
-			}
-		}
 	}
 }
 
