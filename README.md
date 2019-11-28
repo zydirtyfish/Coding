@@ -1,4 +1,8 @@
 # Coding
+### 常用工具
+* [类型定义](https://github.com/zydirtyfish/Coding/blob/master/common_types.h)
+* [布隆滤波器-多哈希算法版](https://github.com/zydirtyfish/Coding/blob/master/bloom_filter.cpp)
+* [日志工具-支持多线程并发](https://github.com/zydirtyfish/Coding/blob/master/clog.cpp)
 
 ### 排序
 * [参考](https://www.cnblogs.com/hokky/p/8529042.html)
