@@ -1,7 +1,10 @@
 # Coding
 
 ### 排序
+* [参考](https://www.cnblogs.com/hokky/p/8529042.html)
 * [归并排序](https://github.com/zydirtyfish/Coding/blob/master/merge_sort.cpp)
+* [插入排序](https://github.com/zydirtyfish/Coding/blob/master/insert_sort.cpp)
+* [希尔排序](https://github.com/zydirtyfish/Coding/blob/master/shell_sort.cpp)
 
 ### 链表
 * [链表反转 I](https://github.com/zydirtyfish/Coding/blob/master/206_Reverse%20Linked%20List.cpp) (Easy)
