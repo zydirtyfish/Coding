@@ -26,3 +26,4 @@
 * [打家劫舍](https://github.com/zydirtyfish/Coding/blob/master/198_House%20Robber.cpp) (Easy)
 * [最大连续子序列和](https://github.com/zydirtyfish/Coding/blob/master/53_Maximum%20Subarray.cpp) (Easy)
 * [硬币找零](https://github.com/zydirtyfish/Coding/blob/master/322_Coin%20Change.cpp)(Medium)
+* [数塔](https://github.com/zydirtyfish/Coding/blob/master/120_Triangle.cpp)(Medium)
