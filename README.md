@@ -15,6 +15,7 @@
 * [链表的深层拷贝](https://github.com/zydirtyfish/Coding/blob/master/138_Copy%20List%20with%20Random%20Pointer.cpp) (Medium)
 * [链表的合并 I](https://github.com/zydirtyfish/Coding/blob/master/21_Merge%20Two%20Sorted%20Lists.cpp) (Easy)
 * [链表的合并 II](https://github.com/zydirtyfish/Coding/blob/master/23_Merge%20k%20Sorted%20Lists.cpp) (Hard)
+* [删除链表的倒数第N个节点](https://github.com/zydirtyfish/Coding/blob/master/19_Remove%20Nth%20Node%20From%20End%20of%20List.cpp) (Medium)
 
 ### 动态规划
 * [爬楼梯](https://github.com/zydirtyfish/Coding/blob/master/70_Climbing%20Stairs.cpp) (Easy)
