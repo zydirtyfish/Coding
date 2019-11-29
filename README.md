@@ -6,13 +6,10 @@
 
 ### 排序
 * [参考](https://www.cnblogs.com/hokky/p/8529042.html)
-##### 插入排序
-* [直接插入排序](https://github.com/zydirtyfish/Coding/blob/master/insert_sort.cpp)
-* [希尔排序](https://github.com/zydirtyfish/Coding/blob/master/shell_sort.cpp)
-##### 交换排序
-* [冒泡排序](https://github.com/zydirtyfish/Coding/blob/master/bubble_sort.cpp)
-* [快速排序](https://github.com/zydirtyfish/Coding/blob/master/quick_sort.cpp)
-##### 其他排序
+* [直接插入排序](https://github.com/zydirtyfish/Coding/blob/master/insert_sort.cpp) (插入排序)
+* [希尔排序](https://github.com/zydirtyfish/Coding/blob/master/shell_sort.cpp) (插入排序)
+* [冒泡排序](https://github.com/zydirtyfish/Coding/blob/master/bubble_sort.cpp) (交换排序)
+* [快速排序](https://github.com/zydirtyfish/Coding/blob/master/quick_sort.cpp) (交换排序)
 * [归并排序](https://github.com/zydirtyfish/Coding/blob/master/merge_sort.cpp)
 
 
